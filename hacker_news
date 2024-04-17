@@ -1,0 +1,16 @@
+import requests
+from bs4 import BeautifulSoup
+from translate import Translator
+
+url = 'https://news.ycombinator.com/newest'
+response = requests.get(url)
+
+soup = BeautifulSoup(response.text, 'html.parser')
+
+head = soup.find_all('tr', class_='athing')
+#print(head)
+
+translator = Translator(to_lang='ru')
+for header in head:
+   print(translator.translate(header.text)) 
+   print(header.find('span', class_='titleline').find('a').get('href'))
