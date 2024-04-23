@@ -1,0 +1,20 @@
+https://download.weakpass.com/wordlists/1061/facebook-first.dic.gz
+https://download.weakpass.com/wordlists/310/2,275,000 password list.txt.gz
+https://download.weakpass.com/wordlists/326/Mats(999k)edited.txt.gz
+https://download.weakpass.com/wordlists/917/Russian_domains.dic.gz
+https://download.weakpass.com/wordlists/628/_hugedb.txt.gz
+https://download.weakpass.com/wordlists/683/darkc0de.lst.gz
+https://download.weakpass.com/wordlists/554/stratfor.dic.gz
+https://download.weakpass.com/wordlists/499/bigdict.txt.gz
+https://download.weakpass.com/wordlists/700/enjin_usernames.out.gz
+https://download.weakpass.com/wordlists/840/German.dic.gz
+https://download.weakpass.com/wordlists/1076/Names_net.dic.gz
+https://download.weakpass.com/wordlists/351/cracklib.txt.gz
+https://download.weakpass.com/wordlists/1916/tbswordlist1.txt.gz
+https://download.weakpass.com/wordlists/638/PASSWORDWORDLIST.txt.gz
+https://download.weakpass.com/wordlists/1238/realpass.txt.gz
+https://download.weakpass.com/wordlists/479/FacebookWords.dic.gz
+https://download.weakpass.com/wordlists/514/Word02.txt.gz
+https://download.weakpass.com/wordlists/1083/gmail.dic.gz
+https://download.weakpass.com/wordlists/504/argon-outher.txt.gz
+https://download.weakpass.com/wordlists/910/yandexru.dic.gz

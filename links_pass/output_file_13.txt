@@ -1,0 +1,20 @@
+https://download.weakpass.com/wordlists/489/general.txt.gz
+https://download.weakpass.com/wordlists/476/GDict.dic.gz
+https://download.weakpass.com/wordlists/1239/1.1million word list.txt.gz
+https://download.weakpass.com/wordlists/1710/md5this-06.2015.txt.gz
+https://download.weakpass.com/wordlists/913/mailru.dic.gz
+https://download.weakpass.com/wordlists/491/all.txt.gz
+https://download.weakpass.com/wordlists/748/International2.dic.gz
+https://download.weakpass.com/wordlists/709/1000000pass_yandex-ru_out_pass.txt.gz
+https://download.weakpass.com/wordlists/821/Computer related.dic.gz
+https://download.weakpass.com/wordlists/1812/dictionary.dic.gz
+https://download.weakpass.com/wordlists/1213/email-pass games.txt.gz
+https://download.weakpass.com/wordlists/919/forbes_users.dic.gz
+https://download.weakpass.com/wordlists/460/misc2013.dic.gz
+https://download.weakpass.com/wordlists/467/Thematic.gz
+https://download.weakpass.com/wordlists/473/ThematicSummary.dic.gz
+https://download.weakpass.com/wordlists/1713/realpass2.dic.gz
+https://download.weakpass.com/wordlists/1208/681a79de.txt.gz
+https://download.weakpass.com/wordlists/1235/b6a9f16a.txt.gz
+https://download.weakpass.com/wordlists/711/familii.txt.gz
+https://download.weakpass.com/wordlists/8/facebook-firstnames.txt.gz

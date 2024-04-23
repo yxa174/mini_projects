@@ -1,0 +1,3 @@
+https://download.weakpass.com/wordlists/1781/old_gold.txt.gz
+https://download.weakpass.com/wordlists/1834/songs_translit.gz
+https://download.weakpass.com/wordlists/1787/wpchit_bg.txt.gz

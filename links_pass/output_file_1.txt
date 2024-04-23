@@ -1,0 +1,20 @@
+https://download.weakpass.com/wordlists/1937/ignis-1M.txt.7z
+https://download.weakpass.com/wordlists/1855/Top1pt6Million-probable-v2.txt.gz
+https://download.weakpass.com/wordlists/1696/BestByChesteRock#1.txt.gz
+https://download.weakpass.com/wordlists/1214/most_security.gz
+https://download.weakpass.com/wordlists/545/dazzlepod.txt.gz
+https://download.weakpass.com/wordlists/18/gmail-alleged.txt.gz
+https://download.weakpass.com/wordlists/717/gmail_out_pass.txt.gz
+https://download.weakpass.com/wordlists/908/gmail.dic.gz
+https://download.weakpass.com/wordlists/1136/sqlmap.txt.gz
+https://download.weakpass.com/wordlists/50/10_million_password_list_top_1000000.txt.gz
+https://download.weakpass.com/wordlists/518/antichat.ru.dic.gz
+https://download.weakpass.com/wordlists/1221/3,000,000  combo list.txt.gz
+https://download.weakpass.com/wordlists/1189/xsplit.txt.gz
+https://download.weakpass.com/wordlists/687/xsplit.dic.gz
+https://download.weakpass.com/wordlists/21/mail.ru-alleged.txt.gz
+https://download.weakpass.com/wordlists/1172/vb_passwords.txt.gz
+https://download.weakpass.com/wordlists/338/UltimatePasswordsList.txt.gz
+https://download.weakpass.com/wordlists/1190/UT2004.csv.gz
+https://download.weakpass.com/wordlists/749/International1.dic.gz
+https://download.weakpass.com/wordlists/1241/wordlist.txt.gz

@@ -1,0 +1,20 @@
+https://download.weakpass.com/wordlists/1078/Names.dic.gz
+https://download.weakpass.com/wordlists/1598/german.txt.gz
+https://download.weakpass.com/wordlists/65/german.txt.gz
+https://download.weakpass.com/wordlists/1615/dictionary_russian_big_translit.txt.gz
+https://download.weakpass.com/wordlists/839/Russian.dic.gz
+https://download.weakpass.com/wordlists/724/actresses_nopunct_nospace_lower.txt.gz
+https://download.weakpass.com/wordlists/1265/wordlist_dic.fr.txt.gz
+https://download.weakpass.com/wordlists/1923/web1_4.970.303.txt.gz
+https://download.weakpass.com/wordlists/1715/web1_4.970.303.txt.gz
+https://download.weakpass.com/wordlists/1060/elyrics.dic.gz
+https://download.weakpass.com/wordlists/1613/dictionary_russian.dic.gz
+https://download.weakpass.com/wordlists/1614/dictionary_russian_big.dic.gz
+https://download.weakpass.com/wordlists/849/Belarusian (Classical Spelling).dic.gz
+https://download.weakpass.com/wordlists/857/Belarusian (Modern Spelling).dic.gz
+https://download.weakpass.com/wordlists/1644/Russian (Full).dic.gz
+https://download.weakpass.com/wordlists/1645/Russian-KOI8.txt.gz
+https://download.weakpass.com/wordlists/1649/russian.dic.gz
+https://download.weakpass.com/wordlists/1657/ru_rzts_sort_part_1.dic.gz
+https://download.weakpass.com/wordlists/1660/ru_rzts_sort_part_4.dic.gz
+https://download.weakpass.com/wordlists/894/mirpesen.dic.gz

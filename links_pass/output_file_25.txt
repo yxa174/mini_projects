@@ -1,0 +1,20 @@
+https://download.weakpass.com/wordlists/514/Word02.txt.gz
+https://download.weakpass.com/wordlists/1083/gmail.dic.gz
+https://download.weakpass.com/wordlists/504/argon-outher.txt.gz
+https://download.weakpass.com/wordlists/910/yandexru.dic.gz
+https://download.weakpass.com/wordlists/1596/german-dic.dic.gz
+https://download.weakpass.com/wordlists/61/darkc0de.txt.gz
+https://download.weakpass.com/wordlists/390/mixed 660k  PWs.txt.gz
+https://download.weakpass.com/wordlists/979/music_artists.dic.gz
+https://download.weakpass.com/wordlists/1085/mailru.dic.gz
+https://download.weakpass.com/wordlists/978/music_albums.dic.gz
+https://download.weakpass.com/wordlists/707/actress-characters_nopunct_nospace_lower.txt.gz
+https://download.weakpass.com/wordlists/1835/surnames.dic.gz
+https://download.weakpass.com/wordlists/1077/Surnames.dic.gz
+https://download.weakpass.com/wordlists/1177/cinnescape.txt.gz
+https://download.weakpass.com/wordlists/1798/3wifi-wordlist.txt.gz
+https://download.weakpass.com/wordlists/918/top_domains.dic.gz
+https://download.weakpass.com/wordlists/1799/final-wordlist.txt.gz
+https://download.weakpass.com/wordlists/509/wpa.txt.gz
+https://download.weakpass.com/wordlists/685/tetrisfriends_usernames.out.gz
+https://download.weakpass.com/wordlists/981/music_misc.dic.gz

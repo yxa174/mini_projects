@@ -1,0 +1,20 @@
+https://download.weakpass.com/wordlists/1037/Persian.udic.gz
+https://download.weakpass.com/wordlists/1040/Norwegian Nynorsk.udic.gz
+https://download.weakpass.com/wordlists/1042/Slovak.udic.gz
+https://download.weakpass.com/wordlists/1070/international_names.udic.gz
+https://download.weakpass.com/wordlists/865/Czech.udic.gz
+https://download.weakpass.com/wordlists/873/Azerbaijani.udic.gz
+https://download.weakpass.com/wordlists/875/Basque.udic.gz
+https://download.weakpass.com/wordlists/877/Bulgarian.udic.gz
+https://download.weakpass.com/wordlists/879/Belarusian.udic.gz
+https://download.weakpass.com/wordlists/885/Bosnian.udic.gz
+https://download.weakpass.com/wordlists/890/Croatian.udic.gz
+https://download.weakpass.com/wordlists/925/Georgian.udic.gz
+https://download.weakpass.com/wordlists/929/Icelandic.udic.gz
+https://download.weakpass.com/wordlists/932/Hungarian.udic.gz
+https://download.weakpass.com/wordlists/936/Greek.udic.gz
+https://download.weakpass.com/wordlists/941/Latvian.udic.gz
+https://download.weakpass.com/wordlists/946/Galician.udic.gz
+https://download.weakpass.com/wordlists/950/Lithuanian.udic.gz
+https://download.weakpass.com/wordlists/956/Estonian.udic.gz
+https://download.weakpass.com/wordlists/957/Hebrew.udic.gz
